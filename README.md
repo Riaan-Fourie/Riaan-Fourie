@@ -32,3 +32,4 @@ Software Engineer & Technical Lead specializing in digital twins, AI automation,
 ## Get in Touch
 
 - [Book a call](https://book.riaanfourie.com)
+- [LinkedIn](https://www.linkedin.com/in/riaanfourie/)
