@@ -7,6 +7,7 @@ Software Engineer & Technical Lead specializing in digital twins, AI automation,
 **AI-Powered Tools**
 - [deal-flow](https://github.com/Riaan-Fourie/deal-flow) — PE deal sourcing pipeline with Claude-powered company enrichment (50+ data points). Next.js 15 + Supabase.
 - [workout-coach](https://github.com/Riaan-Fourie/workout-coach) — AI workout tracking PWA with rehab coaching and injury-aware programming. Next.js 15 + Supabase + Claude API.
+- [booking-service](https://github.com/Riaan-Fourie/booking-service) — Personalized booking link service (custom Calendly alternative) with unique URLs, themed pages, and OG image generation. FastAPI + Cal.com + Supabase + Docker.
 
 **Professional**
 - Digital twin platforms for water utilities (SCADA integration, simulation engines, real-time dashboards)
